@@ -1,0 +1,64 @@
+body {
+    margin-top: 5%;
+    margin-left: 5%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 100%;   
+    line-height: 1.7em; 
+    font-weight: 300;
+}
+
+/*tells you where the typing starts*/
+/*@-webkit-keyframes typing { from { width: 0%; } } 
+@-webkit-keyframes blink-caret { 50% { border-color: transparent; } }*/
+
+h1 { 
+    font: bold 300% Consolas, Monaco, monospace;
+    /*border-right: .1em solid black;*/
+    width: 16.5em; 
+    width: 67%; /*28ch;*/
+    white-space: nowrap;
+    /*overflow: hidden;
+    -webkit-animation: typing 2s steps(21, end),
+               blink-caret .5s step-end infinite alternate;*/
+}
+#homenav ul {
+    padding: 0;
+    margin: 0;
+}
+
+#homenav li {
+    display: inline;
+    
+}
+#homenav a{
+    text-decoration: none;
+    color: #2f4f4f; /*dark slate gray*/
+    font-weight: bold
+}
+#homenav a:hover {
+    color: #CA6262;
+}
+
+p{
+    margin-right: 50%;
+}
+
+body a{
+    text-decoration: none;
+    color: #CA6262;
+}
+
+body a:hover{
+    text-decoration: underline;
+}
+
+footer {
+    clear: both; 
+    margin: 0;
+    padding: .5em;
+    color: #333333;
+    font-size: .813em;
+    text-align: center;
+    /*border-top: 1px solid #f995ce;*/
+}
+
