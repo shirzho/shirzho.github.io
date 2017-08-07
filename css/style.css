@@ -1,3 +1,16 @@
+@media screen and (max-width:700px) {
+    
+    body{
+        word-wrap: normal;
+        margin-right: 5%;
+        width: auto;
+    }
+    body p{
+        margin-right: 5% !important;
+    }
+    
+}
+
 body {
     margin-top: 5%;
     margin-left: 5%;
@@ -10,7 +23,7 @@ body {
 
 .navbar {
     overflow: hidden;
-    background-color: white;
+    background-color: none;
     position: fixed; 
     top: 0; 
     width: 100%; 
@@ -31,7 +44,11 @@ body {
 .navbar a:hover {
     color: #CA6262;
 }
-
+@media {
+    .main{ 
+        margin-right: 5% !important; 
+    }
+}
 .main {
     padding: 16px;
     margin-right: 30%;
