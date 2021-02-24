@@ -4,10 +4,11 @@
 
 layout: default
 title: home
+permalink: index.html
 ---
 
 ## Under Construction
 
 I'm rebuilding my site using Jekyll because it's high time for some modular HTML.
 
-Come back later! :) 
+Come back later! :)
