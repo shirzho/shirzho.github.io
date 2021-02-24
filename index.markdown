@@ -4,7 +4,6 @@
 
 layout: default
 title: home
-permalink: index.html
 ---
 
 ## Under Construction
