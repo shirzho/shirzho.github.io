@@ -7,8 +7,13 @@
     <div class="wrap">
 
         {% include navbar.html %}
+        <br>
         <div class="container content">
-          {{ content }}
+
+          <section>
+            <h2 class="page-title">{{ page.title }}</h2>
+            {{ content }}
+          </section>
         </div>
         {% include footer.html %}
       </div>

@@ -1,10 +1,7 @@
 ---
-
-layout: default
-title: work
+layout: work
+title: Work
 ---
-
-## Work
 
 I'm rebuilding my site using Jekyll because it's high time for some modular HTML.
 

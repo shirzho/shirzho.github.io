@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: home
+title: Shirley Zhou
 ---
-
-## Under Construction
 
 I'm rebuilding my site using Jekyll because it's high time for some modular HTML.
 
