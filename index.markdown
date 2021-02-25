@@ -2,10 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: home
 title: Shirley Zhou
 ---
+######  Hi there, thanks for stopping by...
+# **I'm Shirley--Designer, Maker, Cat Enthusiast**  
+<br>
 
-I'm rebuilding my site using Jekyll because it's high time for some modular HTML.
+---
+##### Unfortunately, this site is currently under construction.
+##### I'm rebuilding it using Jekyll because it's high time for me to get more organized with some modular HTML.
 
-Come back later! :)
+##### Check back later! :)

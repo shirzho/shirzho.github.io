@@ -6,14 +6,18 @@
   <body>
     <div class="wrap">
 
-        {% include navbar.html %}
-        <br>
-        <div class="container content">
-
-          <section>
-            <h2 class="page-title">{{ page.title }}</h2>
-            {{ content }}
-          </section>
+        <div class="container">
+          {% include navbar.html %}
+          <br>
+          <br>
+            <div class="container content">
+              <section>
+                {% if page.title != "Shirley Zhou" %}
+                  <h2 class="page-title">{{ page.title }}</h2>
+                {% endif %}
+                {{ content }}
+              </section>
+            </div>
         </div>
         {% include footer.html %}
       </div>
