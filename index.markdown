@@ -5,12 +5,18 @@
 layout: home
 title: Shirley Zhou
 ---
-######  Hi there, thanks for stopping by...
-# **I'm Shirley--Designer, Maker, Cat Enthusiast**  
+###### Hi there :wave: You found me!
+# **I'm Shirley--Designer, Maker, Avid Coffee Drinker**  
+### I apply my combined technical and design expertise to make products that bring joy to myself and others.
 <br>
+##### Unfortunately, this site is currently under construction. :hammer_and_wrench:
+##### I'm rebuilding it using [Jekyll](https://jekyllrb.com/) because it's high time for me to get more organized with some modular HTML.
+
+##### Check back later! :robot: :tada: :coffee:
 
 ---
-##### Unfortunately, this site is currently under construction.
-##### I'm rebuilding it using Jekyll because it's high time for me to get more organized with some modular HTML.
 
-##### Check back later! :)
+**Current Endeavors:** UX @ Deloitte Digital
+
+**Previously:** Sleep-deprived @ Carnegie Mellon
+<br>
