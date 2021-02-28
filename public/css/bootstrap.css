@@ -8861,7 +8861,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-light {
-  font-weight: 300 !important;
+  font-weight: 300 ;
 }
 
 .font-weight-normal {
