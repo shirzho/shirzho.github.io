@@ -83,7 +83,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #F5F5F3;
 }
 
 [tabindex="-1"]:focus {
@@ -575,6 +575,10 @@ pre code {
   margin-left: auto;
 }
 
+#page-container {
+  position: relative;
+  min-height: 88vh;
+}
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -3990,6 +3994,7 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  background-color: #F5F5F3;
 }
 
 .navbar > .container,

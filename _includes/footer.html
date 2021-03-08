@@ -1,13 +1,33 @@
 
 
-<footer class = "footer fixed-bottom">
-  <div class = "row" >
-    <div class = "col-md-4 offset-1" >
-      <p > Shirley Zhou &copy; 2021.</p>
-    </div>
-    <div class = "col-md-4" >
-        <a class="nav-link" href="work">Work</a>
+<footer>
+  <div class = "container p-4">
+    <div class = "row" >
+      <div class = "col-md-7" >
+        <p > Shirley Zhou &copy; 2021.</p>
+      </div>
+
+      <div class = "col-md-3" >
+          <ul>
+              {% assign links = site.data.navigation %}
+              {% for link in links %}
+                  <li class="list-unstyled {{class}} ">
+                    <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                  </li>
+              {% endfor %}
+          </ul>
+      </div>
     </div>
   </div>
-  
+
 </footer>
+
+<!-- <li class="list-unstyled">
+  <a class="nav-link" href="work.html">Work</a>
+</li>
+<li class="list-unstyled">
+  <a class="nav-link" href="play">Play</a>
+</li>
+<li class="list-unstyled">
+  <a class="nav-link" href="shirley-zhou.me/About">About</a>
+</li> -->

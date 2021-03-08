@@ -1,16 +1,28 @@
 footer {
-  background-color: #212529;
-  height: 10vw;
+  background: #212529;
   color: #fff;
   font-family: 'work sans', sans-serif;
-  margin-top: 20px;
+  margin-top: 0;
+  position: absolute;
+  width: 100%;
+  /* bottom: 0; */
+  height: 14vh;
 }
 
 
-footer p {
-
+ul {
+  margin: 0;
+  padding: 0;
 }
-
-footer a {
-
+footer li {
+  text-align: left;
+  float: left;
+  background: #212529;
+}
+.nav-link {
+  padding-left: 0;
+  padding-right: 1.5rem;
+}
+footer li a:hover {
+  color: #ffffff
 }

@@ -1,7 +1,12 @@
 
 - title: Work
-  url: /work.html
+  url: /work
+  sublinks:
+    - title: Just Harvest
+      url: /work/justharvest.html
+    - title: Bird
+      url: /work/bird.html
 - title: Play
-  url: /play.html
+  url: /play
 - title: About
-  url: /about.html
+  url: /about
