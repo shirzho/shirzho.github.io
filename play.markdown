@@ -1,9 +1,10 @@
 ---
 
-layout: default
+layout: play
 title: Play
 ---
-
-I'm rebuilding my site using Jekyll because it's high time for some modular HTML.
-
-Come back later! :)
+<br>
+##### I love creating things in all types of mediums.
+Digital illustration is one of the many outlets I utilize to let loose and make what I want without reality's constraints.
+<br>
+You can find a larger collection of my work on **[my instagram](https://instagram.com/shur.png/)**.
