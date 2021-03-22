@@ -8,7 +8,7 @@ h5 a {
 h5 a:hover {
   color: #000000;
   text-decoration-color: none;
-  background-image: linear-gradient(180deg, transparent 70%, rgba(179,245,196,0.8) 0);
+  background-image: linear-gradient(180deg, transparent 70%, #39ff14);
 }
 
 img {

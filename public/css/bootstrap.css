@@ -224,7 +224,7 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  border-radius: 1%;
+  border-radius: none;
 }
 
 svg {
@@ -3993,7 +3993,7 @@ input[type="button"].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0rem;
   background-color: #F5F5F3;
 }
 
@@ -4410,11 +4410,16 @@ input[type="button"].btn-block {
   word-wrap: break-word;
   background-color: #fff;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
-  border-radius: 0.25rem;
+  border: 2px solid #39ff14;
+  border-radius: 0.5rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+
+.card:hover{
+     box-shadow: 1px 8px 20px grey;
+    -webkit-transition:  box-shadow .4s ease-in;
+  }
 
 .card > hr {
   margin-right: 0;

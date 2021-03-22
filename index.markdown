@@ -5,14 +5,14 @@
 layout: home
 title: Shirley Zhou
 ---
-###### Hi there, you found me! 👋  
+##### Hi there, you found me! 👋  
 # **I'm Shirley--Designer, Maker, Avid Coffee Drinker**  
-### I apply my combined technical and design expertise to make products that bring joy to myself and others. 🎉
 <br>
-##### Unfortunately, this site is currently under construction.
-##### I'm rebuilding it using [Jekyll](https://jekyllrb.com/) because it's high time for me to get more organized with some modular HTML.
+##### I apply my combined technical and design expertise to make products that bring joy to myself and others. 🎉
+<br>
+<!-- ##### Unfortunately, this site is currently under construction. I'm rebuilding it using [Jekyll](https://jekyllrb.com/) because it's high time for me to get more organized with some modular HTML.-->
 
-##### Check back later! 🛠🤖 ☕️
+<!-- ##### Check back later! 🛠🤖 ☕️ -->
 
 ---
 
