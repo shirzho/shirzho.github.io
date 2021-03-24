@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="599px" height="355px" viewBox="0 0 599 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <defs>
+        <filter x="-19.0%" y="-19.0%" width="138.1%" height="138.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-26.6%" y="-26.6%" width="153.1%" height="153.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#0816C8" stroke-width="10" x="80.5" y="44" width="349" height="168" rx="84"></rect>
+        <g id="Group-2" filter="url(#filter-1)" transform="translate(376.500000, 90.000000)">
+            <circle id="Oval" fill="#FFEB72" cx="67" cy="67" r="67"></circle>
+            <circle id="Oval" fill="#744BFF" cx="44.5" cy="47.5" r="5.5"></circle>
+            <circle id="Oval-Copy" fill="#744BFF" cx="93.5" cy="47.5" r="5.5"></circle>
+            <circle id="Oval" fill="#FC5B5B" cx="69" cy="61" r="8"></circle>
+            <path d="M35.9064013,71.1157102 C41.9920158,94.6497216 53.2595037,105.96646 69.7088652,105.065926 C86.1582266,104.165393 95.8907387,92.8486539 98.9064013,71.1157102" id="Line-5" stroke="#8B9EE3" stroke-width="4" stroke-linecap="round"></path>
+        </g>
+        <g id="Group-2-Copy" filter="url(#filter-2)" transform="translate(489.500000, 242.000000)">
+            <circle id="Oval" fill="#AB88B5" cx="48" cy="48" r="48"></circle>
+            <circle id="Oval" fill="#200B67" cx="33" cy="40" r="4"></circle>
+            <circle id="Oval-Copy" fill="#200B67" cx="64" cy="40" r="4"></circle>
+            <path d="M30,54 C33.6706881,66.4591825 40.4669507,72.4503971 50.3887878,71.9736439 C60.3106248,71.4968907 66.1810289,65.5056761 68,54" id="Line-5" stroke="#D4005E" stroke-width="3" stroke-linecap="round"></path>
+        </g>
+        <path d="M26,127.5 C32.4973651,113.813795 43.266989,106.970693 58.3088719,106.970693 C79.8638885,106.970693 83.2508382,127.5 110.678925,127.5 C142.103505,127.5 137.002014,106.970693 160.442804,106.970693 C178.491164,106.970693 187.369139,127.5 202.51547,127.5 C227.506928,127.5 221.175204,100.877703 257,100.877703 C265.666667,100.877703 276.647864,108.295411 289.943592,123.130828" id="Line-6" stroke="#FF85F6" stroke-width="10" stroke-linecap="round"></path>
+        <circle id="Oval-Copy-2" stroke="#E94133" stroke-width="10" cx="134" cy="216.5" r="38.5"></circle>
+        <circle id="Oval" fill="#FFEB72" cx="538" cy="288.5" r="4.5"></circle>
+    </g>
+</svg>

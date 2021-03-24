@@ -5,21 +5,21 @@
 layout: home
 title: Shirley Zhou
 ---
-##### Hi there, you found me! 👋  
-# **I'm Shirley--Designer, Maker, Avid Coffee Drinker**  
 <br>
-##### I apply my combined technical and design expertise to make products that bring joy to myself and others. 🎉
+# **Hello, I'm Shirley!**
+<img src="../public/assets/yellow_squiggle.png" class="img-fluid" alt="Responsive image" style= "width: 70%">
+<!-- ![](/../public/assets/yellow_squiggle.png) -->
+<br>
+#### designer, maker, avid coffee drinker ☕️
+<br>
+##### I apply my technical & design expertise to make products that bring joy to myself and others. 🎉
 <br>
 <!-- ##### Unfortunately, this site is currently under construction. I'm rebuilding it using [Jekyll](https://jekyllrb.com/) because it's high time for me to get more organized with some modular HTML.-->
 
 <!-- ##### Check back later! 🛠🤖 ☕️ -->
 
----
 
-**Current Endeavors:** UX @ Deloitte Digital
+<!-- **Current Endeavors:** UX @ Deloitte Digital
 
-**Previously:** Sleep-deprived @ Carnegie Mellon
-<br>
-<br>
-<br>
+**Previously:** Sleep-deprived @ Carnegie Mellon -->
 <br>

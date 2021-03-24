@@ -3993,7 +3993,11 @@ input[type="button"].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 0rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 10%;
+  padding-left: 10%;
+  width: 100%;
   background-color: #F5F5F3;
 }
 
