@@ -1,0 +1,25 @@
+
+.btn-primary {
+  color: #fff;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  background-color: #0816C8;
+  border-radius: 40px;
+  border-color: #0816C8;
+}
+
+.row.card-body {
+
+}
+
+.card {
+border: 3px solid #0816C8;
+padding-left: 30px;
+border-radius: 20px;
+margin-bottom: 30px;
+}
+
+img {
+  border-radius: 7%;
+  max-height: 350px;
+}

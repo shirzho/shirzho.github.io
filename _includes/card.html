@@ -1,13 +1,15 @@
 
   <div class = "card">
-
-    <div class="card-body">
-
+    <div class ="row card-body">
+      <div class="col-sm-6">
+        <br>
         <h5 class="card-title">{{include.cardtitle}}</h5>
-
-      <p class = "card-text">{{include.cardtext}} </p>
-      <a href= {{include.cardlink}} >👉 view more</a>
+        <p class = "card-text">{{include.cardtext}} </p>
+        <br>
+        <br>
+        <br>
+        <a href= {{include.cardlink}} class = "btn btn-primary">take a look</a>
+      </div>
+      <img class = "col-sm-6" src={{include.cardimage}}>
     </div>
-
-    <img class = "card-img-bottom" src={{include.cardimage}}>
   </div>
