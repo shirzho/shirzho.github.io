@@ -1,4 +1,11 @@
 
+
+@media screen and (max-width: 420px) {
+  .card img {
+  max-height: 190px;
+  }
+}
+
 h5{
   font-family: 'Work Sans', sans-serif;
   font-weight: 900;
