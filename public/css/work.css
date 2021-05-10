@@ -1,4 +1,9 @@
 
+h5{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 900;
+}
+
 .btn-primary {
   color: #fff;
   font-family: 'Work Sans', sans-serif;
@@ -8,18 +13,26 @@
   border-color: #0816C8;
 }
 
+.btn-primary:hover {
+  color: #212529;
+  background-color: #FFF262;
+  border-radius: 40px;
+  border-color: #FF4D4D;
+  border-width: medium;
+}
+
 .row.card-body {
 
 }
 
 .card {
 border: 3px solid #0816C8;
-padding-left: 30px;
+padding-left: 15px;
 border-radius: 20px;
 margin-bottom: 30px;
 }
 
 img {
   border-radius: 7%;
-  max-height: 350px;
+
 }

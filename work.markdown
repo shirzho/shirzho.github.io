@@ -3,5 +3,5 @@ layout: work
 title: Work
 ---
 
-##### Due to the nature of government work, most of what I do is classified and under wraps. 🤐
-I'm also currently in the middle of rebuilding my site and adding in more current samples of work. In the meantime, if you have any questions or wanna chat, feel free to reach out. 📮
+##### Here are a few things I've helped breathe life into over the past couple years.
+The majority of my current work is under wraps, but I'm always happy to chat if you wanna [shoot me an email](/about) and learn more.
