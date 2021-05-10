@@ -21,10 +21,6 @@ h5{
   border-width: medium;
 }
 
-.row.card-body {
-
-}
-
 .card {
 border: 3px solid #0816C8;
 padding-left: 15px;
@@ -32,7 +28,9 @@ border-radius: 20px;
 margin-bottom: 30px;
 }
 
-img {
+.card img {
   border-radius: 7%;
-
+  max-height:330px;
+  width: auto;
+  height: auto;
 }
