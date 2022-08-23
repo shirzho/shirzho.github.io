@@ -1,0 +1,25 @@
+h5{
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 900;
+}
+p {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+}
+p a {
+  color: #000000;
+  text-decoration: none;
+  text-decoration-color: turquoise;
+  background-image: linear-gradient(180deg, transparent 70%, rgba(255,255,0,0.8) 0);
+}
+p a:hover {
+  color: #000000;
+  text-decoration-color: none;
+  background-image: linear-gradient(180deg, transparent 70%, #F60000);
+}
+
+#contact {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  color: #212529;
+}

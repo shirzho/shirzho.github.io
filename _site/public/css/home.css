@@ -1,0 +1,71 @@
+
+@media screen and (max-width: 420px) {
+  body {
+  background: #E94133;
+  }
+  #rightside {
+    background: #F5F5F3;
+    padding-left: 5%;
+  }
+}
+
+
+ @media screen and (min-width: 421px) {
+   body {
+      /* background: linear-gradient(90deg, #E94133 50%, #F5F5F3 50%); */
+    }
+  #leftside {
+    /* margin-right: 10vh; */
+  }
+
+ }
+
+ h1 {
+   color: #0816C8;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 500;
+ }
+ h2 {
+   color: #0816C8;
+   font-weight: 600;
+   /* text-decoration-line: underline;
+   text-decoration-style: dashed;
+   text-underline-position: under; */
+
+ }
+.cta {
+   color: black;
+   font-family: 'Menlo', sans-serif;
+ }
+
+ a:hover {
+      text-decoration-line: underline;
+      text-decoration-style: wavy;
+      text-underline-position: under;
+ }
+
+ h4,h5 {
+   color: black;
+   font-family: 'Work Sans', sans-serif;
+   font-weight: 400;
+ }
+
+ p {
+   font-family: 'Work Sans', sans-serif;
+   font-weight: 400;
+   /* font-size: "Segoe UI", sans-serif; */
+ }
+
+.peace {
+  float: right;
+  -webkit-animation: rotation 12s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+  from {
+    -webkit-transform: rotate(359deg);
+  }
+  to {
+    -webkit-transform: rotate(0deg);
+  }
+}

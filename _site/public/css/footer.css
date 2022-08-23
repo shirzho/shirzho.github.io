@@ -1,0 +1,41 @@
+footer {
+  background: #212529;
+  color: #fff;
+  font-family: 'work sans', sans-serif;
+  margin-top: 0;
+  padding: 1.5rem;
+  position: absolute;
+  width: 100%;
+  /* height: 15vh; */
+}
+
+div.container.p-4 {
+  background: #212529;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+}
+@media screen and (min-width: 570px) {
+  #navlinks.col-sm {
+    text-align: center;
+  }
+  p#copyright {
+    text-align: left;
+    padding-left: 10%
+  }
+}
+
+
+.nav-link {
+  padding-left: 0;
+  padding-right: auto;
+}
+footer li a {
+  color: #ffffff;
+}
+footer li a:hover {
+  color: #E94133;
+}
