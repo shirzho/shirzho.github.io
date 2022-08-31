@@ -6,11 +6,12 @@ layout: home
 title: Shirley Zhou
 ---
 <br>
-# Hello, I'm Shirley!
-<img src="../public/assets/yellow_squiggle.png" class="img-fluid" alt="Responsive image" style= "width: 70%">
+# Hello, I'm Shirley
+<img src="../public/assets/green_squiggle.png" class="img-fluid" alt="Responsive image" style= "width: 55%">
 <!-- ![](/../public/assets/yellow_squiggle.png) -->
 <br>
-##### designer, maker, avid coffee drinker ☕️
+<br>
+#### designer, maker, avid coffee drinker ☕️
 <br>
 ##### I apply my technical & design expertise to make products that bring joy to myself and others. 🎉
 <br>
